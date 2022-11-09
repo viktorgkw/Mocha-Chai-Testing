@@ -32,4 +32,4 @@ More information about configurations here:
 https://dev.to/wakeupmh/debugging-mocha-tests-in-vscode-468a
 ```
 
-## Thanks for checking out the repository
+## Thanks for checking out the repository!
