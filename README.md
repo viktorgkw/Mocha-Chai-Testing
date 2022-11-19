@@ -1,13 +1,10 @@
-# Testing with Mocha and Chai
+# Testing with Mocha and Chai 🧪
 
+## About ℹ️
 This repo contains super easy example
 on how to test functions with Mocha and Chai.
 
-## Folders
-The test is in the tests folder.
-The functions are in utils folder.
-
-## Setup
+## Setup ⚙️
 Before starting the project you need
 to have Node.js latest version installed.
 
@@ -32,4 +29,8 @@ More information about configurations here:
 https://dev.to/wakeupmh/debugging-mocha-tests-in-vscode-468a
 ```
 
-## Thanks for checking out the repository!
+## Folders 📂
+The test is in the tests folder.
+The functions are in utils folder.
+
+## Thanks for checking out the repository! 💚
